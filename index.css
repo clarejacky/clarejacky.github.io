@@ -1,8 +1,17 @@
 .body {
 	font-family: Georgia, Times, serif;
-	background-color: #E8E8E8;
+	background-color: #E0E0E0;
 }
 .personal p {
 	font-size 12px;
 	line-height: 1em;
+}
+.education p {
+	font-size: 12px;
+}
+.education h2 {
+	font-size: 18px;
+}
+.body li {
+	font-size: 12px;
 }
