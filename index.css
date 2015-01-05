@@ -2,7 +2,7 @@ body {
 	font-family: Georgia, Times, serif;
 	background-color: #E0E0E0;
 }
-.personal .p {
+personal p {
 	font-size: 12px;
 	line-height: 1em;
 }
@@ -18,6 +18,6 @@ body li {
 .personal {
 	background-color: #343441;
 }
-.personal .h2 .p {
+personal h2 p {
 	color: #FFFFFF;
 }
