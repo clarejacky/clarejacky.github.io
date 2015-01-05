@@ -2,22 +2,22 @@ body {
 	font-family: Georgia, Times, serif;
 	background-color: #E0E0E0;
 }
-body personal p {
+.Personal p {
 	font-size: 12px;
 	line-height: 1em;
 }
-.education .p {
+.education p {
 	font-size: 12px;
 }
-.education .h2 {
+.education h2 {
 	font-size: 18px;
 }
 body li {
 	font-size: 12px;
 }
-.personal {
+.Personal {
 	background-color: #343441;
 }
-body personal h2 p {
+.Personal h2 p {
 	color: #FFFFFF;
 }
