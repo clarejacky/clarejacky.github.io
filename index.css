@@ -25,5 +25,7 @@ body p {
 	font-size: 12px;
 }
 img {
-	padding: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 20px;
 }
