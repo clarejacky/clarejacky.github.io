@@ -16,6 +16,8 @@
 	font-size: 12px;
 }
 .personal {
-	background-color: #343441
-	font-color: #FFFFFF;
+	background-color: #343441;
+}
+.personal h2 p {
+	color: #FFFFFF;
 }
