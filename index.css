@@ -1,7 +1,9 @@
 body {
 	font-family: Georgia, Times, serif;
 	background-color: #F5F5DC;
-	border-radius: 25px;
+	width: 1400px;
+	padding: 10px;
+	margin: 10px;
 }
 .Personal p {
 	line-height: 1em;
