@@ -16,4 +16,5 @@ function daysUntilThirty (dayOfTheYear, dayOfBirthday) {
 	var daysUntilThirty = dayOfBirthday - dayOfTheYear;
 	return daysUntilThirty;
 	alert("You will be 30 in "+daysUntilThirty+" days!");
+	console.log(daysUntilThirty);
 }
