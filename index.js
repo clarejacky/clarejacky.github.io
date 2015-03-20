@@ -12,7 +12,7 @@ function dayOfBirthday () {
 	var dayOfBirthday = month + 24;
 	return dayOfBirthday;
 }
-function daysUntilThirty (dayOfTheYear, dayOfBirthday) {
+function daysUntilThirty (dayYear, birthday) {
 	var birthday = dayOfBirthday();
 	var dayYear = dayOfTheYear();
 	var daysUntilThirty = birthday - dayYear;
