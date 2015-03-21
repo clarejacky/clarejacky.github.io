@@ -15,4 +15,8 @@ function dayOfBirthday () {
 	return dayOfBirthday;
 }
 
-console.log(dayOfBirthday() - dayOFTheYear());
+var birthday = dayOfBirthday();
+var dayYear = dayOfTheYear();
+
+var daysUntilThirty = birthday - dayYear;
+console.log(daysUntilThirty);
