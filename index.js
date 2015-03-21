@@ -21,4 +21,4 @@ var dayYear = dayOfTheYear();
 var daysUntilThirty = birthday - dayYear;
 console.log(daysUntilThirty);
 
-alert("You will be 30 in "+daysUntilThirty+ " days!");
+alert("Clare Jacky will be 30 in "+daysUntilThirty+ " days!");
