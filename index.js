@@ -5,7 +5,7 @@ function dayOfTheYear() {
 	var month = dayCount[monthNumber];
 	var dayOfMonth = dt.getDate();
 	var dayOfTheYear = month + dayOfMonth;
-return dayOfTheYear;
+	return dayOfTheYear;
 }
 
 function dayOfBirthday () {
@@ -15,6 +15,4 @@ function dayOfBirthday () {
 	return dayOfBirthday;
 }
 
-var daysUntilThirty = dayOfBirthday() - dayOfTheYear();
-
-console.log(dayUntilThirty);
+console.log(dayOfBirthday() - dayOFTheYear());
